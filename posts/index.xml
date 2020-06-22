@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sam&#39;s Projects</title>
-    <link>samwhite.nz/</link>
-    <description>Recent content on Sam&#39;s Projects</description>
+    <title>Posts on Sam&#39;s Projects</title>
+    <link>samwhite.nz/posts/</link>
+    <description>Recent content in Posts on Sam&#39;s Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jun 2020 20:41:07 +1200</lastBuildDate>
     
-	<atom:link href="samwhite.nz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="samwhite.nz/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

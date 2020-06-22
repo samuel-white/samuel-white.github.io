@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>samwhite.nz/posts/</loc>
+    <lastmod>2020-06-22T20:41:07+12:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>samwhite.nz/</loc>
+    <lastmod>2020-06-22T20:41:07+12:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>samwhite.nz/posts/test/</loc>
+    <lastmod>2020-06-22T20:41:07+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>samwhite.nz/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>samwhite.nz/tags/</loc>
   </url>
   
 </urlset>
