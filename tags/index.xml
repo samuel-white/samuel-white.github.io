@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam&#39;s Projects</title>
-    <link>samwhite.nz/tags/</link>
+    <link>https://samwhite.nz/tags/</link>
     <description>Recent content in Tags on Sam&#39;s Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="samwhite.nz/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samwhite.nz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
